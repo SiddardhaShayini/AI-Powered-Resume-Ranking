@@ -6,6 +6,9 @@ An intelligent resume screening and ranking system that uses advanced Natural La
 
 This application leverages SpaCy for NLP processing and scikit-learn for machine learning to provide comprehensive resume analysis. The system evaluates resumes based on keyword matching, skills assessment, experience evaluation, and semantic similarity using TF-IDF vectorization.
 
+> Check out our awesome AI-Powered Resume Rankings Streamlit app! It's designed to help you quickly assess resumes. 🚀📊
+> <a href="https://ai-powered-resume-rankings.streamlit.app/" target="_blank">🚀 AI-Powered Resume Rankings 📊</a>
+
 ## ✨ Features
 
 - **PDF Resume Processing**: Automatic text extraction from PDF resume files
